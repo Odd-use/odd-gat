@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/Odd-use/odd-gat/compare/v1.4.0...v2.0.0) (2020-12-18)
+
+
+* Merge pull request #49 from Odd-use/next ([222410f](https://github.com/Odd-use/odd-gat/commit/222410f176f03c8a3c5c551a0044e306250e0b87)), closes [#49](https://github.com/Odd-use/odd-gat/issues/49)
+
+
+### BREAKING CHANGES
+
+* add gatsby
+
 # [1.4.0](https://github.com/Odd-use/odd-gat/compare/v1.3.0...v1.4.0) (2020-12-18)
 
 
