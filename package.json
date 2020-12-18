@@ -6,11 +6,11 @@
 	"author": "Odduse <info@odduse.com> (http://odduse.com/)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/odduse/odd-gat/issues"
+		"url": "https://github.com/Odd-use/odd-gat/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/odduse/odd-gat.git"
+		"url": "git+https://github.com/Odd-use/odd-gat.git"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 0"
