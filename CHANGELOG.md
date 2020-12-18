@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Odd-use/odd-gat/compare/v1.2.0...v1.3.0) (2020-12-18)
+
+
+### Features
+
+* add husky ([380bdad](https://github.com/Odd-use/odd-gat/commit/380bdada4716f832954662301424d38f812228f8))
+
 # [1.2.0](https://github.com/Odd-use/odd-gat/compare/v1.1.0...v1.2.0) (2020-12-18)
 
 
