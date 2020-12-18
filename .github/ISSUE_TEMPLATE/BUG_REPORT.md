@@ -2,6 +2,7 @@
 name: 🐛 Bug Report
 about: Create a report to help us improve the project.
 labels: bug
+projects: issues
 title: "[BUG NAME]"
 ---
 
@@ -47,7 +48,6 @@ If applicable, add code samples to help explain your problem.
 
 - Node.js version: <!-- Please ensure you are using the Node LTS version (v12) -->
 - NPM version:
-- Strapi version: <!-- Beta and Alpha versions are no longer supported -->
 - Database:
 - Operating system:
 
