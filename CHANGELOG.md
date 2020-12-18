@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Odd-use/odd-gat/compare/v1.0.0...v1.1.0) (2020-12-18)
+
+
+### Features
+
+* add commitlint ([3eefc09](https://github.com/Odd-use/odd-gat/commit/3eefc09b89dfecb23f800b447013ef4eda3daf7a))
+
 # 1.0.0 (2020-12-18)
 
 
