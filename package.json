@@ -35,6 +35,7 @@
 		"gatsbyjs",
 		"semantic-release",
 		"commitlint",
-		"commitizen"
+		"commitizen",
+		"husky"
 	]
 }
