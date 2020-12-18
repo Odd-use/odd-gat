@@ -23,7 +23,8 @@
 		"@semantic-release/git": "^9.0.0",
 		"@semantic-release/github": "^7.1.1",
 		"@semantic-release/npm": "^7.0.6",
-		"@semantic-release/release-notes-generator": "^9.0.1"
+		"@semantic-release/release-notes-generator": "^9.0.1",
+		"cz-conventional-changelog": "^3.3.0"
 	},
 	"keywords": [
 		"template",
@@ -32,6 +33,7 @@
 		"gatsby",
 		"gatsbyjs",
 		"semantic-release",
-		"commitlint"
+		"commitlint",
+		"commitizen"
 	]
 }
