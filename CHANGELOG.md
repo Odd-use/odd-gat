@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Odd-use/odd-gat/compare/v1.1.0...v1.2.0) (2020-12-18)
+
+
+### Features
+
+* add commitizen ([1d80628](https://github.com/Odd-use/odd-gat/commit/1d806287ba086c311f76a66d355dadcd966e2ab3))
+
 # [1.1.0](https://github.com/Odd-use/odd-gat/compare/v1.0.0...v1.1.0) (2020-12-18)
 
 
