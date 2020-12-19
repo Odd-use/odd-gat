@@ -1,3 +1,15 @@
+# [2.1.0](https://github.com/Odd-use/odd-gat/compare/v2.0.0...v2.1.0) (2020-12-19)
+
+
+### Bug Fixes
+
+* update storybook for gatsby structure ([c1ca1f3](https://github.com/Odd-use/odd-gat/commit/c1ca1f325f2f4e8bccbc6d7a9367a5b15151758c))
+
+
+### Features
+
+* add storybook ([a407f50](https://github.com/Odd-use/odd-gat/commit/a407f509978567db5c2374036d49b6d8ef73da47))
+
 # [2.0.0](https://github.com/Odd-use/odd-gat/compare/v1.4.0...v2.0.0) (2020-12-18)
 
 
