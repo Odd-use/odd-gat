@@ -47,7 +47,6 @@ If applicable, add code samples to help explain what you want to create in the p
 
 - Node.js version: <!-- Please ensure you are using the Node LTS version (v12) -->
 - NPM version:
-- Strapi version: <!-- Beta and Alpha versions are no longer supported -->
 - Database:
 - Operating system:
 
