@@ -19,8 +19,8 @@ A template for GatsbyJS projects.
 
 ## External Documents
 
-- [Contributing](https://github.com/odduse/odd-gat/blob/main/CONTRIBUTING.md)
-- [Changelog](https://github.com/odduse/odd-gat/blob/main/CHANGELOG.md)
+- [Contributing](https://github.com/Odd-use/odd-gat/blob/main/CONTRIBUTING.md)
+- [Changelog](https://github.com/Odd-use/odd-gat/blob/main/CHANGELOG.md)
 - [Wiki](https://github.com/Odd-use/odd-gat/wiki)
 
 ## Projects
@@ -45,7 +45,7 @@ A template for GatsbyJS projects.
 Navigate the a directory on your computer were you are working on sites and run this command:
 
 ```shell
-git clone https://github.com/odduse/odd-gat.git
+git clone https://github.com/Odd-use/odd-gat.git
 ```
 
 ### Install packages
@@ -101,7 +101,7 @@ npm run storybook
 
 ## Status
 
-[![peerDependencies Status](https://img.shields.io/david/peer/odduse/odd-gat)](https://david-dm.org/odduse/odd-gat?type=peer)
+[![peerDependencies Status](https://img.shields.io/david/peer/Odd-use/odd-gat)](https://david-dm.org/Odd-use/odd-gat?type=peer)
 
 ## What's included
 
@@ -190,7 +190,7 @@ The project uses these technologies.
 
 ### Design Pattern
 
-All components, templates & pages are trying to follow the [Atomic Design Methodology](https://github.com/odduse/odd-gat/blob/main/DESIGN.md)
+All components, templates & pages are trying to follow the [Atomic Design Methodology](https://github.com/Odd-use/odd-gat/blob/main/DESIGN.md)
 
 ## Community
 
@@ -205,22 +205,21 @@ All components, templates & pages are trying to follow the [Atomic Design Method
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/odduse/odd-gat/blob/main/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](https://github.com/Odd-use/odd-gat/blob/main/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
 ## Bugs, Feature requests, Questions & Need help
 
-Have a bug, feature request, need help or just want to question? Please first read the [issue guidelines](https://github.com/odduse/odd-gat/blob/main/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/odduse/odd-gat/issues/new).
+Have a bug, feature request, need help or just want to question? Please first read the [issue guidelines](https://github.com/Odd-use/odd-gat/blob/main/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/Odd-use/odd-gat/issues/new).
 
-- [🐛 Report a bug](https://github.com/odduse/odd-gat/issues/new?template=BUG_REPORT.md)
-- [🛠️ Feature request](https://github.com/odduse/odd-gat/issues/new?template=FEATURE_REQUEST.md)
-- [💬 Ask a question](https://github.com/odduse/odd-gat/issues/new?template=QUESTION.md)
-- [❓ Help wanted](https://github.com/odduse/odd-gat/issues/new?template=HELP_WANTED.md)
+- [🐛 Report a bug](https://github.com/Odd-use/odd-gat/issues/new?template=BUG_REPORT.md)
+- [🛠️ Feature request](https://github.com/Odd-use/odd-gat/issues/new?template=FEATURE_REQUEST.md)
+- [💬 Ask a question](https://github.com/Odd-use/odd-gat/issues/new?template=QUESTION.md)
 
 ## Versioning
 
 For transparency into my release cycle and in striving to maintain backward compatibility, odd-gat is maintained under the [Semantic-Release](https://semantic-release.gitbook.io/semantic-release/) & [Semantic Versioning guidelines](https://semver.org). Sometimes we screw up, but we adhere to those rules whenever possible.
 
-See the Releases section of our GitHub project for [CHANGELOG](https://github.com/odduse/odd-gat/blob/main/CHANGELOG.md) for each release version of odd-gat projects.
+See the Releases section of our GitHub project for [CHANGELOG](https://github.com/Odd-use/odd-gat/blob/main/CHANGELOG.md) for each release version of odd-gat projects.
 
 ## Creator
 
@@ -231,4 +230,4 @@ See the Releases section of our GitHub project for [CHANGELOG](https://github.co
 ## Copyright and license
 
 This project is licensed under the terms of the MIT license.
-For more information, [click here](https://github.com/odduse/odd-gat/blob/master/LICENSE).
+For more information, [click here](https://github.com/Odd-use/odd-gat/blob/master/LICENSE).
