@@ -1,20 +1,20 @@
 blank_issues_enabled: true
 contact_links:
-  - name: odd-gat Wiki
+  - name: Wiki
     url: https://github.com/Odd-use/odd-gat/wiki
     about: Check out the odd-gat wiki for answers to common questions
-  - name: Odduse Discussions
+  - name: Discussions
     url: https://github.com/odduse/odd-gat/discussions/
     about: Ask questions, request features & discuss RFCs
   - name: Odduse Twitter
     url: https://twitter.com/odduse_
     about: The official Twitter account to ask questions and get help with any open-source projects by Odduse
-	-	name: Odduse Facebook
+  - name: Odduse Facebook
     url: https://www.facebook.com/odduse
     about: Ask questions, get help and discuss new things you're building with the Odduse corporation
-	-	name: Odduse Instagram
+  - name: Odduse Instagram
     url: https://www.instagram.com/odduse_/
     about: Ask questions, get help and discuss new things you're building with the Odduse corporation
-	-	name: Odduse LinkedIn
+  - name: Odduse LinkedIn
     url: https://www.linkedin.com/company/27092780/
     about: Ask questions, get help and discuss new things you're building with the Odduse corporation
