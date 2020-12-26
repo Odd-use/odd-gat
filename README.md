@@ -123,11 +123,11 @@ npm run storybook
 
 ## Status
 
-[![peerDependencies Status](https://img.shields.io/david/peer/Odd-use/odd-gat)](https://david-dm.org/Odd-use/odd-gat?type=peer)]
+[![current release](https://img.shields.io/github/release/Odd-use/odd-gat.svg)](https://img.shields.io/github/release/Odd-use/odd-gat)
 
-[![current release](https://img.shields.io/github/release/Odd-use/odd-gat.svg)]
+[![license](https://img.shields.io/github/license/Odd-use/odd-gat.svg)](https://img.shields.io/github/license/Odd-use/odd-gat)
 
-[![license](https://img.shields.io/github/license/Odd-use/odd-gat.svg)]
+[![peerDependencies Status](https://img.shields.io/david/peer/Odd-use/odd-gat)](https://david-dm.org/Odd-use/odd-gat?type=peer)
 
 ## What's included
 
