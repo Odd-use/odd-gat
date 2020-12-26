@@ -68,16 +68,38 @@ yarn
 
 Navigate the site’s directory and start it up. Will be located on url: http://localhost:8000
 
+With Gatsby:
+
 ```shell
-npm run start
+gatsby develop
+```
+
+With NPM:
+
+```shell
+npm run develop
+```
+
+With Yarn:
+
+```shell
+yarn develop
 ```
 
 ### Build the project
 
 Navigate the site’s directory and start it up. Will be located on url: http://localhost:8000
 
+With NPM
+
 ```shell
 npm run build
+```
+
+With Yarn
+
+```shell
+yarn build
 ```
 
 ### Develop & Test on Smartphone
@@ -101,7 +123,11 @@ npm run storybook
 
 ## Status
 
-[![peerDependencies Status](https://img.shields.io/david/peer/Odd-use/odd-gat)](https://david-dm.org/Odd-use/odd-gat?type=peer)
+[![peerDependencies Status](https://img.shields.io/david/peer/Odd-use/odd-gat)](https://david-dm.org/Odd-use/odd-gat?type=peer)]
+
+[![current release](https://img.shields.io/github/release/Odd-use/odd-gat.svg)]
+
+[![license](https://img.shields.io/github/license/Odd-use/odd-gat.svg)]
 
 ## What's included
 
